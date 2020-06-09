@@ -12,7 +12,7 @@
     "build": "./node_modules/.bin/tsc",
     "deploy": "export NODE_ENV='production' && firebase deploy --only functions",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "doc": "apidoc -i src"
+    "doc": "apidoc -i src -o docs"
   },
   "repository": {
     "type": "git",

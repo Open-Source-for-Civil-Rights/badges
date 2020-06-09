@@ -2,7 +2,7 @@ define({ "api": [
   {
     "type": "get",
     "url": "/blm",
-    "title": "Get a badge that says \"SUPPORTS BLM",
+    "title": "Badge that says \"SUPPORTS BLM\" with two colors",
     "name": "Get_BLM_Badge",
     "group": "Badges",
     "parameter": {

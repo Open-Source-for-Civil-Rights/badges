@@ -2,7 +2,7 @@
   {
     "type": "get",
     "url": "/blm",
-    "title": "Get a badge that says \"SUPPORTS BLM",
+    "title": "Badge that says \"SUPPORTS BLM\" with two colors",
     "name": "Get_BLM_Badge",
     "group": "Badges",
     "parameter": {
@@ -28,7 +28,7 @@
       }
     },
     "version": "0.0.0",
-    "filename": "src/server.ts",
+    "filename": "src/index.ts",
     "groupTitle": "Badges"
   },
   {
@@ -38,7 +38,7 @@
     "name": "Get_Home",
     "group": "Home",
     "version": "0.0.0",
-    "filename": "src/server.ts",
+    "filename": "src/index.ts",
     "groupTitle": "Home"
   }
 ]
