@@ -2,8 +2,32 @@
   {
     "type": "get",
     "url": "/blm",
+    "title": "Badge that says \"Black Lives Matter\"",
+    "name": "BLM_Badge",
+    "group": "Badges",
+    "parameter": {
+      "fields": {
+        "Query Parameters": [
+          {
+            "group": "Query Parameters",
+            "type": "String",
+            "optional": false,
+            "field": "color",
+            "defaultValue": "#808080",
+            "description": "<p>Color of the first half of the badge</p>"
+          }
+        ]
+      }
+    },
+    "version": "0.0.0",
+    "filename": "src/index.ts",
+    "groupTitle": "Badges"
+  },
+  {
+    "type": "get",
+    "url": "/supports-blm",
     "title": "Badge that says \"SUPPORTS BLM\" with two colors",
-    "name": "Get_BLM_Badge",
+    "name": "Supports_BLM_Badge",
     "group": "Badges",
     "parameter": {
       "fields": {
@@ -27,6 +51,16 @@
         ]
       }
     },
+    "version": "0.0.0",
+    "filename": "src/index.ts",
+    "groupTitle": "Badges"
+  },
+  {
+    "type": "get",
+    "url": "/blm",
+    "title": "Badge that says We Heart BLM",
+    "name": "We_Heart_BLM",
+    "group": "Badges",
     "version": "0.0.0",
     "filename": "src/index.ts",
     "groupTitle": "Badges"
