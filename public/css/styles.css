@@ -15,6 +15,7 @@
 }
 
 .social {
+    margin-top: 2rem;
     margin-right: 2rem;
     height: 3rem;
 }
@@ -73,7 +74,7 @@ code {
     color: white;
     border-radius: 1rem;
     padding: 1rem;
-    overflow: scroll;
+    overflow-x: scroll;
     text-align: left;
     display: block;
 }
