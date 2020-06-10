@@ -1,0 +1,79 @@
+.copy-button {
+    margin-top: 2rem;
+}
+
+.badge {
+    text-align: center;
+}
+
+.socials {
+    margin-bottom: 2rem;
+}
+
+.socials > a {
+    text-decoration: none;
+}
+
+.social {
+    margin-right: 2rem;
+    height: 3rem;
+}
+
+.snackbar {
+    font-weight: bold;
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #181818;
+    color: #fff;
+    text-align: center;
+    border-radius: 2px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    bottom: 30px;
+    font-size: 17px;
+}
+
+.snackbar.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+@-webkit-keyframes fadein {
+    from {bottom: 0; opacity: 0;}
+    to {bottom: 30px; opacity: 1;}
+}
+
+@keyframes fadein {
+    from {bottom: 0; opacity: 0;}
+    to {bottom: 30px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+    from {bottom: 30px; opacity: 1;}
+    to {bottom: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+    from {
+        bottom: 30px;
+        opacity: 1;
+    }
+    to {
+        bottom: 0;
+        opacity: 0;
+    }
+}
+
+code {
+    background-color: #262626;
+    color: white;
+    border-radius: 1rem;
+    padding: 1rem;
+    overflow: scroll;
+    text-align: left;
+    display: block;
+}
