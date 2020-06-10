@@ -1,34 +1,28 @@
 # OSCR Badges
+
 Supporting Civil Rights? Add some BLM Badges:
 
-
-[![opensourceforcivilrights](https://opensourceforcivilrightsbadges.web.app/we-love-blm.svg)](https://opensourceforcivilrights.com)
-
-```markdown
-[![opensourceforcivilrights](https://opensourceforcivilrightsbadges.web.app/we-love-blm.svg)](https://opensourceforcivilrights.com)
-```
-
-[![opensourceforcivilrights](https://opensourceforcivilrightsbadges.web.app/blm.svg)](https://opensourceforcivilrights.com)
+[![opensourceforcivilrights](https://badges.opensourceforcivilrights.com/we-love-blm.svg)](https://opensourceforcivilrights.com)
 
 ```markdown
-[![opensourceforcivilrights](https://opensourceforcivilrightsbadges.web.app/blm.svg)](https://opensourceforcivilrights.com)
+[![opensourceforcivilrights](https://badges.opensourceforcivilrights.com/we-love-blm.svg)](https://opensourceforcivilrights.com)
 ```
 
-[![opensourceforcivilrights](https://opensourceforcivilrightsbadges.firebaseapp.com/support-blm.svg)](https://opensourceforcivilrights.com)
+[![opensourceforcivilrights](https://badges.opensourceforcivilrights.com/blm.svg)](https://opensourceforcivilrights.com)
+
 ```markdown
-[![opensourceforcivilrights](https://opensourceforcivilrightsbadges.firebaseapp.com/support-blm.svg)](https://opensourceforcivilrights.com)
+[![opensourceforcivilrights](https://badges.opensourceforcivilrights.com/blm.svg)](https://opensourceforcivilrights.com)
 ```
+
+[![opensourceforcivilrights](https://badges.opensourceforcivilrights.com/support-blm.svg)](https://opensourceforcivilrights.com)
+```markdown
+[![opensourceforcivilrights](https://badges.opensourceforcivilrights.com/support-blm.svg)](https://opensourceforcivilrights.com)
+```
+
+This project is part of the [OSCR Foundation](https://oopensourceforcivilrights.com)
 
 ## Contributing
 
-Have a badge you want added? Create an SVG in public directory and create a PR with the badge and the listing in the README. Please convert your text to outlines to ensure the badges display correctly on all devices, in Illustrator the shortcut is `ctrl + shift + o`.
+Please read [the contributing guidelines](CONTRIBUTING.md) if you'd like to contribute.
 
-### Style Guide
-
-**Font**
-
-16pt [Montserrat](https://fonts.google.com/specimen/Montserrat) Font. 
-
-**Badge Size**
-
-Existing badges are 50px high. If you'd like to do a different height, please provide an explanation in your PR.
+Questions, comments, concerns? Feel free to send me a message on Twitter, @oscrorg.

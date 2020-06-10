@@ -1,6 +1,6 @@
 ---
 name: "Add a New Badge ✊\U0001F3FD✊\U0001F3FD✊\U0001F3FD"
-about: Add a new badge to our list
+about: Create a new badge
 title: "[BADGE REQUEST]"
 labels: new-badge
 assignees: ''
