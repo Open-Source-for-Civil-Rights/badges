@@ -24,7 +24,7 @@ Supporting Civil Rights? Add some BLM Badges:
 [![opensourceforcivilrights](https://badges.opensourceforcivilrights.com/oscr.svg)](https://opensourceforcivilrights.com)
 ```
 
-This project is part of the [OSCR Foundation](https://oopensourceforcivilrights.com)
+This project is part of the [OSCR Foundation](https://opensourceforcivilrights.com)
 
 ## Contributing
 
